@@ -1,5 +1,10 @@
 # Broker Models -  submodule of contracts for microservices
 
+# Dependicies
+```
+npm i 
+```
+
 # gen all languages
 ```
 make all
