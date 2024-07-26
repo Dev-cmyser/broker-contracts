@@ -1,0 +1,6 @@
+{
+  "arguments": {
+    "main": "real-name-for-routing-key",
+    "key": "value"
+  }
+}

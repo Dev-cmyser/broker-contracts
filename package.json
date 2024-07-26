@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-models",
+  "version": "1.0.0",
+  "description": "# сгенерировать все",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write  ",
+    "generate": "quicktype"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.2.5",
+    "quicktype": "^23.0.170"
+  }
+}
