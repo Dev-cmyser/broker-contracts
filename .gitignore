@@ -7,3 +7,4 @@ node_modules/
 configs/
 !src/configs
 models/
+.DS_STORE
